@@ -10,6 +10,7 @@ body {
     font-weight: 500;
 }
 
+
 .first-container {
     /* border: 1px solid blue; */
     width: 471px;
@@ -86,6 +87,7 @@ body {
 
 .second-container {
     border: 1px solid blue;
+    position: relative;
     background-color: #FFFFFF;
     width: 471px;
     height: 258px;
@@ -102,6 +104,8 @@ body {
     height: 59px;
     margin-top: 14px;
     margin-left: 29px;
+    border-bottom-right-radius: 120px ;
+
 }
 
 .pin-pinbox {
@@ -123,6 +127,9 @@ input, number {
 }
 
 .img-div {
+    position: absolute;
+    right: 5px;
+    top: 10px;
     width: 47px;
     height: 67px;
     margin-right: 18px;
