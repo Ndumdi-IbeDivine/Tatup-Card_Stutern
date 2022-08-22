@@ -8,3 +8,10 @@ body {
     background-color: rgb(224, 235, 235);
     font-family: 'Roboto', sans-serif;
 }
+
+main {
+    border: 1px solid purple;
+    width: 471px;
+    height: 551px;
+    margin: 0px auto;
+}
