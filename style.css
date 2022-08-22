@@ -81,4 +81,13 @@ main {
     background-color: #FF1515;
     height: 31px;
     border: none;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.link a {
+    color: #fff;
+    font-size: 0.875rem;
+    font-weight: 700;
+    text-decoration: none;
 }
