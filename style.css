@@ -11,9 +11,8 @@ body {
 }
 
 main {
-    border: 1px solid purple;
     width: 471px;
-    height: 551px;
+    height: 100vh;
     margin: 0px auto;
 }
 
@@ -96,4 +95,11 @@ main {
 
 .link a:hover {
     color: #f5f5f5;
+}
+
+/* second-container styling begins here */
+.second-container {
+    border: 1px solid red;
+    background-color: #fff;
+    margin-top: 43px;
 }
