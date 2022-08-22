@@ -66,3 +66,9 @@ main {
     text-align: center;
     font-size: 3rem;
 }
+
+.phone-number-container {
+    margin-top: 46px;
+    text-align: right;
+    
+}
