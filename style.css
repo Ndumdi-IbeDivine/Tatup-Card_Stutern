@@ -60,3 +60,9 @@ main {
     font-size: 1.125rem;
     text-align: right;
 }
+
+.amount {
+    margin-top: 46px;
+    text-align: center;
+    font-size: 3rem;
+}
