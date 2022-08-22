@@ -48,5 +48,15 @@ main {
 }
 
 .data-container {
-    margin-top: 32px;    
+    border: 1px solid green;
+    width: 191px;
+    margin-top: 32px; 
+    font-weight: 500;  
+    color: #FF4848;
+}
+
+.description {
+    border: 1px solid blue;
+    font-size: 1.125rem;
+    text-align: right;
 }
