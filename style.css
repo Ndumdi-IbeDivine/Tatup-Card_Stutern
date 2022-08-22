@@ -88,6 +88,10 @@ main {
     text-decoration: none;
 }
 
+/* .link a:active {
+    
+} */
+
 .link a:hover {
     color: #f5f5f5;
 }
