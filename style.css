@@ -70,5 +70,9 @@ main {
 .phone-number-container {
     margin-top: 46px;
     text-align: right;
-    
+}
+
+.phone-number {
+    color: #000;
+    font-size: 0.875rem;
 }
