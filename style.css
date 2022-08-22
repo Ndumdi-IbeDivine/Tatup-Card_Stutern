@@ -103,3 +103,7 @@ main {
     background-color: #fff;
     margin-top: 43px;
 }
+
+.second-inner-container {
+    display: flex;
+}
