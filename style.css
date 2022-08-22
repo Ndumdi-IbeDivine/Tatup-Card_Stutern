@@ -30,3 +30,19 @@ main {
     height: 227px;
     display: flex;
 }
+
+.logo-header-container {
+    margin-top: 31px;
+}
+
+.first-logo {
+    margin-left: 43px;
+    margin-bottom: 16px; 
+}
+
+.header-content {
+    margin-left: 9px;
+    margin-bottom: 22px;
+    font-size: 0.875rem;
+    font-weight: 500;
+}
