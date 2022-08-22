@@ -66,6 +66,8 @@ main {
 .phone-number-container {
     margin-top: 46px;
     text-align: right;
+    position: relative;
+    left: 20px;
 }
 
 .phone-number {
