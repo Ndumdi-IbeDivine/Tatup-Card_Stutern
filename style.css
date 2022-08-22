@@ -23,3 +23,10 @@ main {
     height: 258px;
     margin-top: 20px; 
 }
+
+.top-container {
+    border: 1px solid red;
+    background-color: #FCEBEB;
+    height: 227px;
+    display: flex;
+}
