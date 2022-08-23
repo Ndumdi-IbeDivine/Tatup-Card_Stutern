@@ -122,11 +122,18 @@ main {
 
 .pin-pinbox {
     margin-top: 15px;
-    margin-left: 56px;
+    
 } 
 
 input[type="number"] {
     width: 229px;
     height: 38px;
+    border: none;
+}
 
+label[for="pin"] {
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: 500;
+    
 }
