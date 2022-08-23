@@ -111,3 +111,11 @@ main {
 .second-logo {
     width: 47px;
 }
+
+.pin-rectangle-container {
+    background-color: #32A2E1;
+    width: 382px;
+    height: 59px;
+    margin-top: 14px;
+    margin-left: 29px;
+}
