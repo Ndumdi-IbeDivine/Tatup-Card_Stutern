@@ -176,3 +176,9 @@ label[for="pin"] {
     font-size: 2.25rem;
     margin-left: 175px;
 }
+
+.last-rectangle-container {
+    display: flex;
+    border: 1px solid #AAA6A6;
+    margin-bottom: 19px;
+}
