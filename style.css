@@ -122,6 +122,7 @@ main {
 
 .pin-pinbox {
     margin-top: 15px;
+    margin-left: 35px;
     
 } 
 
@@ -135,5 +136,5 @@ label[for="pin"] {
     color: #fff;
     font-size: 1.5rem;
     font-weight: 500;
-    
+    margin-top: 22px;
 }
