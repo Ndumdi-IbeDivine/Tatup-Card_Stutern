@@ -164,3 +164,9 @@ label[for="pin"] {
     margin-top: 10px;
     margin-left: 76px;
 }
+
+.token {
+    font-weight: 300;
+    margin-top: 2px;
+    margin-left: 117px;
+}
