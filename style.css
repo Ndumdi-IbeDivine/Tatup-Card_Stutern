@@ -107,3 +107,7 @@ main {
 .second-inner-container {
     display: flex;
 }
+
+.second-logo {
+    width: 47px;
+}
