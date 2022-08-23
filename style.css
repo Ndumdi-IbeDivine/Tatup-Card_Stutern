@@ -145,3 +145,7 @@ label[for="pin"] {
 .sentence-container {
     font-size: 1.125rem;
 }
+
+.bold-text {
+    font-weight: 700;
+}
