@@ -110,6 +110,7 @@ main {
 
 .second-logo {
     width: 47px;
+    margin-top: 24px;
 }
 
 .pin-rectangle-container {
@@ -118,6 +119,8 @@ main {
     height: 59px;
     margin-top: 14px;
     margin-left: 29px;
+    -webkit-clip-path: polygon(0 0, 100% 0, 90% 100%, 0% 100%);
+    clip-path: polygon(0 0, 100% 0, 90% 100%, 0% 100%);
 }
 
 .pin-pinbox {
@@ -137,4 +140,8 @@ label[for="pin"] {
     font-size: 1.5rem;
     font-weight: 500;
     margin-top: 22px;
+}
+
+.sentence-container {
+    
 }
