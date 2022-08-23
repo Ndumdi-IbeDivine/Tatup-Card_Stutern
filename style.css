@@ -149,3 +149,12 @@ label[for="pin"] {
 .bold-text {
     font-weight: 700;
 }
+
+.instruction {
+    font-weight: 300;
+    margin-top: 6px;
+    margin-left: 136px;
+    border-bottom: 1px solid;
+    width: fit-content;
+    padding-bottom: none;
+}
