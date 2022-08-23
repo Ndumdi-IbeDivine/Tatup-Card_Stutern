@@ -120,12 +120,13 @@ main {
     margin-left: 29px;
 }
 
-/* .pin-pinbox {
-    justify-content: center;
-} */
+.pin-pinbox {
+    margin-top: 15px;
+    margin-left: 56px;
+} 
 
 input[type="number"] {
     width: 229px;
     height: 38px;
-    
+
 }
