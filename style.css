@@ -119,3 +119,13 @@ main {
     margin-top: 14px;
     margin-left: 29px;
 }
+
+/* .pin-pinbox {
+    justify-content: center;
+} */
+
+input[type="number"] {
+    width: 229px;
+    height: 38px;
+    
+}
