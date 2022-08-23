@@ -158,3 +158,9 @@ label[for="pin"] {
     width: fit-content;
     padding-bottom: none;
 }
+
+.dail {
+    font-weight: 400;
+    margin-top: 10px;
+    margin-left: 76px;
+}
