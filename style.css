@@ -144,6 +144,7 @@ label[for="pin"] {
 
 .sentence-container {
     font-size: 1.125rem;
+    color: #000;
 }
 
 .bold-text {
@@ -169,4 +170,9 @@ label[for="pin"] {
     font-weight: 300;
     margin-top: 2px;
     margin-left: 117px;
+}
+
+.price {
+    font-size: 2.25rem;
+    margin-left: 175px;
 }
