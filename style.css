@@ -155,6 +155,7 @@ label[for="pin"] {
     font-weight: 300;
     margin-top: 6px;
     margin-left: 136px;
+    /* text-decoration: underline; */
     border-bottom: 1px solid;
     width: fit-content;
     padding-bottom: none;
@@ -180,5 +181,6 @@ label[for="pin"] {
 .last-rectangle-container {
     display: flex;
     border: 1px solid #AAA6A6;
+    height: 48px;
     margin-bottom: 19px;
 }
