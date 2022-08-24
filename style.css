@@ -194,3 +194,11 @@ label[for="pin"] {
 .batch {
     margin-top: 8px;
 }
+
+object[data="Rectangle 6.svg"] {
+    position: relative;
+    left: 200px;
+    width: 120px;
+    height: 24px;
+    margin-top: 20px;
+}
