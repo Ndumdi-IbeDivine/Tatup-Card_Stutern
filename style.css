@@ -184,3 +184,9 @@ label[for="pin"] {
     height: 48px;
     margin-bottom: 19px;
 }
+
+.second-sentence-container {
+    padding-left: 29px;
+    font-size: 0.8125rem;
+    font-weight: 400;
+}
